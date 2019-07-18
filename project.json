@@ -4,7 +4,6 @@
   "main": "Main.xaml",
   "dependencies": {
     "Baidu.VatInvoice.Ocr.Activities": "[1.0.4]",
-    Sitaram
     "BalaReva.DataTable.Activities": "[1.1.0]",
     "BalaReva.Excel.Activities": "[17.0.0]",
     "BalaReva.Externals.Activities": "[4.0.3]",

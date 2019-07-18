@@ -181,7 +181,7 @@
                     <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" TimeoutMS="{x:Null}" InformativeScreenshot="d90194e1ad4ada1dd39831110dc10ed1" Selector="&lt;webctrl id='Password1' tag='INPUT' /&gt;" WaitForReady="COMPLETE" />
                   </ui:TypeInto.Target>
                 </ui:TypeInto>
-                <ui:Click DelayBefore="{x:Null}" ClickType="CLICK_DOUBLE" DelayMS="5000" DisplayName="Click 'INPUT  btnLogIn'" sap:VirtualizedContainerService.HintSize="314,106" sap2010:WorkflowViewState.IdRef="Click_7" KeyModifiers="None" MouseButton="BTN_LEFT" SendWindowMessages="False" SimulateClick="True">
+                <ui:Click DelayBefore="{x:Null}" ClickType="CLICK_DOUBLE" DelayMS="4500" DisplayName="Click 'INPUT  btnLogIn'" sap:VirtualizedContainerService.HintSize="314,106" sap2010:WorkflowViewState.IdRef="Click_7" KeyModifiers="None" MouseButton="BTN_LEFT" SendWindowMessages="False" SimulateClick="True">
                   <ui:Click.CursorPosition>
                     <ui:CursorPosition OffsetX="27" OffsetY="9" Position="TopLeft" />
                   </ui:Click.CursorPosition>
